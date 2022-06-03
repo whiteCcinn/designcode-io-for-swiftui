@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView: View {
+struct RingAnimationView: View {
     var body: some View {
         ZStack {
             Circle()
